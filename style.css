@@ -1,0 +1,18 @@
+body{
+	background-color: white;
+}
+.jumbotron{
+	text-align: center;
+	opacity: 0.7;
+	
+}
+.searchForm{
+	text-align: center;
+}
+.footer{
+	font-size: 3em;
+	text-align: center;
+	color: #44449a;
+	padding-top: 300px;
+
+}
